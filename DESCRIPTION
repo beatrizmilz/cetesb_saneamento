@@ -14,5 +14,10 @@ Suggests:
     pdftables
 Imports: 
     dplyr,
+    munifacil (>= 1.0.0),
     readr,
     tidyr
+URL: https://github.com/beatrizmilz/cetesb_saneamento
+BugReports: https://github.com/beatrizmilz/cetesb_saneamento/issues
+Remotes:  
+    curso-r/munifacil

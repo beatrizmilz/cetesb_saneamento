@@ -25,4 +25,4 @@ Para o ano de 2023, os dados não foram disponibilizados. Qual o motivo? Como sa
 | 2016 | Apêndice C | [Link](https://cetesb.sp.gov.br/aguas-interiores/wp-content/uploads/sites/12/2018/03/Ap%C3%AAndice-C-Dados-do-saneamento-b%C3%A1sico...-munic%C3%ADpios-paulistas-2016_17-04.pdf) | PDF digitalizado | Não |
 
 
-
+Obs: [Neste post](https://beamilz.com/posts/2020-07-27-criando-mapas-com-os-pacotes-tidyverse-e-geobr/pt/) de 2020, eu já havia extraído os dados de 2018.
