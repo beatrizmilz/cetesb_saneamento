@@ -61,7 +61,8 @@ dados_2022_tidy <- dados_2022 |>
       "Santo Antônio do
 Aracanguá",
       municipio
-    )
+    ),
+    ictem = round(ictem, 2)
   ) |>
   munifacil::limpar_colunas(col_muni = municipio, col_uf = uf) |>
   munifacil::incluir_codigo_ibge() |>
